@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Natours/static/css/main.ac16af47.chunk.css",
+    "main.js": "/React-Natours/static/js/main.a8a77b20.chunk.js",
+    "main.js.map": "/React-Natours/static/js/main.a8a77b20.chunk.js.map",
+    "runtime-main.js": "/React-Natours/static/js/runtime-main.ff49509e.js",
+    "runtime-main.js.map": "/React-Natours/static/js/runtime-main.ff49509e.js.map",
+    "static/js/2.714a18d5.chunk.js": "/React-Natours/static/js/2.714a18d5.chunk.js",
+    "static/js/2.714a18d5.chunk.js.map": "/React-Natours/static/js/2.714a18d5.chunk.js.map",
+    "index.html": "/React-Natours/index.html",
+    "precache-manifest.76f23eb5f8d04e26e6d137b31bcd1d2b.js": "/React-Natours/precache-manifest.76f23eb5f8d04e26e6d137b31bcd1d2b.js",
+    "service-worker.js": "/React-Natours/service-worker.js",
+    "static/css/main.ac16af47.chunk.css.map": "/React-Natours/static/css/main.ac16af47.chunk.css.map",
+    "static/media/Natours.css": "/React-Natours/static/media/hero-2.97a36163.jpg",
+    "static/media/logo-white.png": "/React-Natours/static/media/logo-white.40d4ef82.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff49509e.js",
+    "static/js/2.714a18d5.chunk.js",
+    "static/css/main.ac16af47.chunk.css",
+    "static/js/main.a8a77b20.chunk.js"
+  ]
+}
